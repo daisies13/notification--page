@@ -4,8 +4,8 @@ body{
 }
 
 main{
-  margin: 4% auto 1%;
-  width: 37%;
+  margin: 10% auto 5%;
+  width: 45%;
   box-shadow: 1px 1px 10px 1px #F5F5F7;
   background-color:  hsl(0, 0%, 100%);
   padding: 1% 2%;
@@ -83,7 +83,7 @@ h2 a:hover{
   color:#5F636E;
 }
 p{
-  font-size: 0.75rem;
+  font-size: 0.85rem;
   color:#999DA6;
   margin: 0 1vw ;
 }
